@@ -1,13 +1,11 @@
-STEPPER = 10
-
 class Board
   constructor: (selector) ->
     @board = $(selector)[0].contentDocument
-    @current = 0
+    @maxOccurence = 0
+    @offset = [14, 14, 13, 12, 8]
 
   testFill: ->
-    key = @board.getElementById("rect2186")
-    @current += STEPPER
-    key.style.fill = "rgb(255, #{255-@current}, #{255-@current})"
+    key = $(@board).find('path:nth-child(31)').not('.excluded')
+    key.css 'fill', "#ff0000"
 
 window.Board = Board

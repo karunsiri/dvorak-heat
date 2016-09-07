@@ -258,13 +258,13 @@
        d="M 720,0 L 780,0 L 780,60 L 720,60 L 720,0 z "
        id="rect2246" />
     <path
-       style="fill:#dfdfdf;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
        d="M 780,0 L 900,0 L 900,60 L 780,60 L 780,0 z "
        id="rect2248" />
 
     <!-- TOP ROW -->
     <path
-       style="fill:#dfdf00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
        d="M 0,60 L 90,60 L 90,120 L 0,120 L 0,60 z "
        id="rect2250" />
     <path
@@ -322,7 +322,7 @@
 
     <!-- HOME ROW -->
     <path
-       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
        d="M 0,120 L 105,120 L 105,180 L 0,180 L 0,120 z "
        id="rect2286" />
     <path
@@ -370,14 +370,14 @@
        d="M 705,120 L 765,120 L 765,180 L 705,180 L 705,120 z "
        id="rect2318" />
     <path
-       style="fill:#dfdfdf;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
        d="M 765,120 L 900,120 L 900,180 L 765,180 L 765,120 z "
        id="rect2320" />
 
     <!-- BOTTOM ROW -->
     <path
        class="lshift"
-       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
        d="M 0,180 L 135,180 L 135,240 L 0,240 L 0,180 z "
        id="rect2322" />
     <path
@@ -421,23 +421,25 @@
        d="M 675,180 L 735,180 L 735,240 L 675,240 L 675,180 z "
        id="rect2346" />
     <path
-       style="fill:#dfdfdf;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
        d="M 735,180 L 900,180 L 900,240 L 735,240 L 735,180 z "
        id="rect2348" />
+
+    <!-- ctrl row -->
     <path
-       style="fill:#dfdfdf;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
        d="M 0,240 L 90,240 L 90,300 L 0,300 L 0,240 z "
        id="rect2350" />
     <path
-       style="fill:#dfdfdf;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
        d="M 810,240 L 900,240 L 900,300 L 810,300 L 810,240 z "
        id="rect2352" />
     <path
-       style="fill:#dfdfdf;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
        d="M 150,240 L 240,240 L 240,300 L 150,300 L 150,240 z "
        id="rect2354" />
     <path
-       style="fill:#dfdfdf;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
        d="M 600,240 L 690,240 L 690,300 L 600,300 L 600,240 z "
        id="rect2360" />
     <path
@@ -445,17 +447,19 @@
        d="M 240,240 L 600,240 L 600,300 L 240,300 L 240,240 z "
        id="rect2362" />
     <path
-       style="fill:#efefef;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
        d="M 90,240 L 150,240 L 150,300 L 90,300 L 90,240 z "
        id="rect2364" />
     <path
-       style="fill:#efefef;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
        d="M 690,240 L 750,240 L 750,300 L 690,300 L 690,240 z "
        id="rect2366" />
     <path
-       style="fill:#efefef;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
        d="M 750,240 L 810,240 L 810,300 L 750,300 L 750,240 z "
        id="rect2368" />
+
+    <!-- aux paths -->
     <path
        style=""
        d=""
@@ -528,6 +532,7 @@
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 802.5,25.146484 L 802.5,10.146484 L 787.5,17.646484 L 802.5,25.146484 z "
        id="path5441" />
+
     <g
        id="g5459"
        transform="translate(0,7.5)">
@@ -536,6 +541,7 @@
          d="M 82.50003,75 L 54.020182,75"
          id="path5453" />
       <path
+         class="excluded"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 60,82.5 L 60,67.5 L 45,75 L 60,82.5 z "
          id="path5455" />
@@ -552,6 +558,7 @@
          d="M 82.50003,75 L 54.020182,75"
          style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:3.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
+         class="excluded"
          id="path5468"
          d="M 60,82.5 L 60,67.5 L 45,75 L 60,82.5 z "
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
@@ -627,6 +634,7 @@
            id="tspan5572"
            sodipodi:role="line">Caps Lock</tspan></text>
       <path
+         class="excluded"
          id="path5584"
          d="M 26.25,142.5 L 15,157.5 L 22.5,157.5 L 22.5,165 L 30,165 L 30,157.5 L 37.5,157.5 L 26.25,142.5 z M 25.21875,146.71875 L 27.25,146.71875 L 30.375,155.34375 L 28.5,155.34375 L 27.90625,153.5625 L 24.5625,153.5625 L 24,155.34375 L 22.125,155.34375 L 25.21875,146.71875 z M 26.25,148.4375 L 25.03125,152.09375 L 27.4375,152.09375 L 26.25,148.4375 z "
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
@@ -729,6 +737,7 @@
            x="31.8125"
            y="201.19531">Shift</tspan></text>
       <path
+         class="excluded"
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 27.25,207.125 L 16,222.125 L 23.5,222.125 L 23.5,229.625 L 31,229.625 L 31,222.125 L 38.5,222.125 L 27.25,207.125 z "
          id="path5757" />
@@ -748,6 +757,7 @@
            id="tspan5799"
            sodipodi:role="line">Shift</tspan></text>
       <path
+         class="excluded"
          id="path5801"
          d="M 27.25,207.125 L 16,222.125 L 23.5,222.125 L 23.5,229.625 L 31,229.625 L 31,222.125 L 38.5,222.125 L 27.25,207.125 z "
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />

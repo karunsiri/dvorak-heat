@@ -1,12 +1,15 @@
 board = null
 
-init = ->
-  board = new Board("#board")
-  # board.testFill()
-  bindButtons()
+HeatMap = {
+  board: undefined
+  init: ->
+    HeatMap.board = new Board("#board")
+    HeatMap.bindButtons()
 
-bindButtons = ->
-  $("#button").on "click", ->
-    board.testFill()
+  feed: ->
+    HeatMap.board.testFill()
 
-$(window).on "load", init
+  bindButtons: ->
+    $("#feed_btn").on "click", HeatMap.feed
+  }
+$(window).on "load", HeatMap.init

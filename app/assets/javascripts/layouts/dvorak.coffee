@@ -1,5 +1,3 @@
-board = null
-
 HeatMap = {
   board: undefined
 

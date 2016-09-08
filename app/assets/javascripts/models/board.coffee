@@ -7,7 +7,6 @@ class Board
   reset: ->
     @board = $(@selector)[0].contentDocument
     @maxOccurence = 0
-    @offset = [14, 14, 13, 12, 8]
     @map = {}
     @stepper = 1
 
@@ -39,11 +38,6 @@ class Board
 
     for char, count of @map
       @draw(seekOrder(char), count)
-    # console.log seekOrder("'")
-    # @draw(16, 137)
-
-    # console.log @map
-    # window.map = @map
 
   draw: (order, count) ->
     color = (255 - (count * @stepper)) | 0
@@ -56,6 +50,5 @@ class Board
       if count > max then max = count
 
     @stepper = (255 / max)
-    console.log "Stepper:", @stepper, "Max:", max
 
 window.Board = Board

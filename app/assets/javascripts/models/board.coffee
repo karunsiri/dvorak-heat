@@ -9,6 +9,7 @@ class Board
     @maxOccurence = 0
     @map = {}
     @stepper = 1
+    @shiftPressed = 0
 
   clearBoard: ->
     for i in [1..61]
@@ -26,18 +27,20 @@ class Board
 
   heat: ->
     isShiftNeeded = (char) =>
-      !!(~@config.needsShift.join().indexOf(char.toLowerCase()))
+      !!(~@config.needsShift.indexOf(char))
 
     seekOrder = (char) =>
       order = 0
       for row, row_no in @config.rows
         for keys, key_no in row
           order += 1
-          return order if ~(keys || '').indexOf(char.toLowerCase())
+          return order if ~(keys || '').indexOf(char)
       0
 
     for char, count of @map
-      @draw(seekOrder(char), count)
+      c = char.toLowerCase()
+      if isShiftNeeded(c) then @shiftPressed += 1
+      @draw(seekOrder(c), count)
 
   draw: (order, count) ->
     color = (255 - (count * @stepper)) | 0

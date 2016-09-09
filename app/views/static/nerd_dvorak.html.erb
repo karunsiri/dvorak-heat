@@ -1,0 +1,17 @@
+<%= javascript_include_tag 'layouts/nerd_dvorak' %>
+
+<h3>Dvorak</h3>
+<div>
+  <%= content_tag :object, nil, id: "board", data: image_path('nerd_dvorak.svg'), type: "image/svg+xml" %>
+</div>
+
+<div>
+  <textarea id="textfeed" rows="10" style="width: 80%; font-size: 1em;">
+  A narrative or story is any report of connected events, real or imaginary, presented in a sequence of written or spoken words, and/or still or moving images.
+  Narrative can be organized in a number of thematic and/or formal categories: non-fiction (such as definitively including creative non-fiction, biography, journalism, transcript poetry, and historiography); fictionalization of historical events (such as anecdote, myth, legend, and historical fiction); and fiction proper (such as literature in prose and sometimes poetry, such as short stories, novels, and narrative poems and songs, and imaginary narratives as portrayed in other textual forms, games, or live or recorded performances). Narrative is found in all forms of human creativity, art, and entertainment, including speech, literature, theatre, music and song, comics, journalism, film, television and video, radio, gameplay, unstructured recreation, and performance in general, as well as some painting, sculpture, drawing, photography, and other visual arts (though several modern art movements refuse the narrative in favor of the abstract and conceptual), as long as a sequence of events is presented. The word derives from the Latin verb narrare, "to tell", which is derived from the adjective gnarus, "knowing" or "skilled".
+  </textarea>
+</div>
+
+<div>
+  <button type="button" id="feed_btn" style="font-size: 2em;">Make it hot!</button>
+</div>
